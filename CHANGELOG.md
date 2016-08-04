@@ -1,6 +1,9 @@
 # HEAD
 
-- Added [primer-markdown](https://github.com/primer/markdown) to the build
+# 4.1.0
+
+- Added: [primer-markdown](https://github.com/primer/markdown) to the build
+- Fixes: Pointing "style" package.json to `build/build.css` file.
 
 # 4.0.2
 
